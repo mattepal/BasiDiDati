@@ -4,5 +4,5 @@ This repo is a collection of code made in the course "strutture dati e algoritmi
 # Usage
 Just have a look if you have trouble solving any practice exam or check out my personal solution to the problem.
 
-# file c
-I'm not sure all the C files work since they are exercises.
+# file 
+I'm not sure all the  files work since they are exercises.
